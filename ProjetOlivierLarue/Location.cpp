@@ -72,8 +72,6 @@ int main()
 	std::cout << "Votre cout total est de :" << coutTotal;  // montre à l'utilisateur le cout total.
 
 
-
-
 	return 0;
 }
 
